@@ -12,7 +12,7 @@ Les identitifants sont à renseigner dans le fichier start.py
 **pip install callr**
 
 
-## Installation des dependance dans un environnement virtuel (pipenv)
+## Installation des dépendances dans un environnement virtuel (pipenv)
 
 **pipenv install** 
 
