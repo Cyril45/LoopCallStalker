@@ -5,7 +5,7 @@ J'ai créé se programme afin de rappeler en boucle une plateforme téléphoniqu
 
 Il vous faut un compte callR sur https://www.callr.com/
 
-Les identitifants sont à renseigner dans le fichier start.py
+Les identitifants sont à renseigner dans le fichier **start.py**
 
 ## Installation des dépendances en local
 
