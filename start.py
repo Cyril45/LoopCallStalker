@@ -15,5 +15,5 @@ count = 0
 while True :
     count += 1
     print(str(count) + " appel émis vers " + stalker)
-    result = api.call('sendr/simple.broadcast_1', target, message, None)
+    result = api.call('calls.broadcast_1', target, message, None)
     time.sleep(0.2)
